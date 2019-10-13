@@ -7,3 +7,4 @@
 ***
 Enclosed within horizontal rules
 ***
+some text
